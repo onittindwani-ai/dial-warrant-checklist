@@ -1,0 +1,4 @@
+row_type,person_name,phone_number,date_and_time_of_request,how_they_asked,what_they_said,date_added_to_do_not_call_list,days_to_honor,handled_by,notes
+SAMPLE,Sample Person Four,555-0104,2026-02-10 14:05,Replied to a text,STOP,2026-02-10,0,Sample Owner,Made up row. Replace with your own.
+SAMPLE,Sample Person Five,555-0105,2026-02-11 11:30,Pressed 9 during an AI call,Key press 9,2026-02-11,0,Sample Owner,Made up row. Replace with your own.
+SAMPLE,Sample Person Six,555-0106,2026-02-12 16:20,Said it out loud on a call,Please stop calling me,2026-02-13,1,Sample Owner,Made up row. Replace with your own.

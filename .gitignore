@@ -1,0 +1,4 @@
+__pycache__/
+*.pyc
+my-results.csv
+.DS_Store

@@ -1,0 +1,4 @@
+row_type,source_id,source_name,how_people_said_yes,date_range,who_owns_it,consent_wording_version,proof_available,states_covered,ok_to_call,notes
+SAMPLE,S1,Free guide form on our site,Ticked consent box on the form,2026-01-01 to 2026-03-31,Sample Owner,consent-wording-v1,Yes: form entries and page screenshots,All,Yes,Made up row. Replace with your own.
+SAMPLE,S2,Webinar sign ups,Ticked consent box on the sign up page,2026-02-01 to 2026-02-28,Sample Owner,consent-wording-v1,Yes: form entries,All,Yes,Made up row. Replace with your own.
+SAMPLE,S3,Bought list from Example List Co,Provider says opted in,2026-03-01,Sample Owner,Unknown,No: asked the provider and none received yet,Unknown,No,Made up row. Do not call until proof arrives.

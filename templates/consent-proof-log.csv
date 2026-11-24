@@ -1,0 +1,4 @@
+row_type,person_name,phone_number,state,date_and_time_of_yes,where_they_said_yes,exact_wording_version,how_saved,source_id,notes
+SAMPLE,Sample Person One,555-0101,FL,2026-01-05 10:12,Free guide form on example.com/guide,consent-wording-v1,Form entry plus page screenshot,S1,Made up row. Replace with your own.
+SAMPLE,Sample Person Two,555-0102,OK,2026-01-06 18:40,Webinar sign up on example.com/webinar,consent-wording-v1,Form entry plus page screenshot,S2,Made up row. Replace with your own.
+SAMPLE,Sample Person Three,555-0103,MD,2026-01-07 09:03,Booking form on example.com/book,consent-wording-v2,Form entry plus page screenshot,S3,Made up row. Replace with your own.

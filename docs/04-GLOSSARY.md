@@ -1,0 +1,42 @@
+# Glossary
+
+Plain meanings. Not legal definitions. Each check gives the exact source.
+
+- **TCPA (Telephone Consumer Protection Act):** the US law about robocalls and unwanted texts.
+- **FCC (Federal Communications Commission):** the US body that makes phone and telecom rules.
+- **FTC (Federal Trade Commission):** the US body that protects consumers and runs the National Do Not Call Registry.
+- **TSR (Telemarketing Sales Rule):** the FTC's rule for sales calls.
+- **Artificial voice:** a voice that is not a person speaking. The FCC said in 2024 that AI voices that sound human, including cloned voices, are artificial voices.
+- **Prerecorded voice:** a recorded message played to the person who answers.
+- **Robocall and robotext:** a call or text made with an automated dialer or an artificial or prerecorded voice.
+- **AI-generated voice:** a voice made by AI software rather than spoken live by a person.
+- **Voice cloning:** making an AI voice that copies a real person's voice.
+- **Prior express consent:** the person agreed, beforehand, to get the calls.
+- **Prior express written consent:** a signed written agreement to get marketing calls with an automated system or an artificial voice. An electronic signature or a tick box can count when it is valid under the law.
+- **Telemarketing / telephone solicitation:** a call to sell something or to get information to sell something.
+- **Lead magnet:** a free item (a guide, a checklist, a template) people get in return for their contact details.
+- **Lead list:** a list of people who might buy. Bought, rented or collected.
+- **Lead provider:** a company that sells or shares lead lists.
+- **Consent proof log:** your record of who said yes, when, to what wording, and where.
+- **National Do Not Call Registry:** the US list of numbers whose owners asked not to get sales calls. Sellers must check it unless an exception applies.
+- **Scrub (a list):** remove numbers that are on a do not call list or that asked to stop.
+- **Internal (your own) do not call list:** your list of people who told you to stop.
+- **Established business relationship:** a past purchase (in the last 18 months) or an inquiry (in the last 3 months), as defined in the FCC rule.
+- **Revocation (of consent):** the person takes back their yes.
+- **Opt out:** a way to stop getting calls or texts, such as pressing a key or replying STOP.
+- **Reassigned number:** a phone number that moved to a new owner.
+- **Caller ID:** the number (and sometimes the name) shown on the person's phone.
+- **Spoofing:** showing a false or misleading caller ID.
+- **STIR/SHAKEN:** a system where phone providers digitally sign calls to show the caller ID was checked.
+- **Attestation level:** how sure the provider is that the caller ID is right.
+- **Robocall Mitigation Database:** an FCC list of providers that filed their plans to fight illegal robocalls.
+- **Voice service provider:** the company that carries your calls.
+- **Abandoned call:** a call that is answered but not connected to a representative within the time the rule allows.
+- **All party consent:** a state rule that everyone on a call must agree to recording.
+- **One party consent:** a rule that one person on the call (including you) may agree to recording.
+- **Private right of action:** the right of a person to sue directly.
+- **Mini TCPA:** a state law that copies or adds to the federal rules (Florida, Oklahoma and Maryland are examples).
+- **Statutory damages:** a fixed amount set by law, per violation, so the person suing does not have to prove a loss.
+- **Enrolled bill:** the final text of a bill that passed the legislature.
+- **Vacated (a rule):** a court cancelled the rule.
+- **Waiver:** a regulator agrees to delay or excuse a rule for a time.
